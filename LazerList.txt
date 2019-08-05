@@ -23,7 +23,8 @@
       "7e80ee1e66244ae4957d9ffb64ef39f9",
       "50fcc2c86982431992535539cb26f591",
       "d387ca847d494f6a8f544fbe375daef6",
-      "8d4206532b604babb004a33ebaba7395"
+      "8d4206532b604babb004a33ebaba7395",
+      "a1a320981daa467685b7bd1c1fc50adf"
     ]
   }
 }
