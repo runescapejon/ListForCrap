@@ -25,7 +25,8 @@
       "8d4206532b604babb004a33ebaba7395",
       "a1a320981daa467685b7bd1c1fc50adf",
       "b7a129db29ea44d4be12a2657b18e469",
-      "b3528ddcf5f7495db7ee6d1c2e24103c"
+      "b3528ddcf5f7495db7ee6d1c2e24103c",
+      "e3badc8f1e824f18b0ff1db81bda7aab"
     ]
   }
 }
