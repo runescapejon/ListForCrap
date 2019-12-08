@@ -2,32 +2,13 @@
   "success": true,
   "player": {
     "uuid": [
-      "e23b034bc2d24ae5ba7a93fb08de9c69",
       "6a7377dca2ab41c58cffb22eff6d6b76",
-      "7027e7d9418d4be3966b8b6954b1048d",
-      "fdffb3a33ac24355b0dd0db1a5ad4b7a",
       "bc6cecd4020c4e51910cb383a815b13d",
-      "3070986f8098436aa565bcdffafe9bff",
       "aad3c7607a1440acbbb2d9a78aaf25ac",
-      "fbf18ae1c5ef430db679e1cf477273c9",
       "b989a2994cd04bef809df180eecc9894",
-      "607f28f7c70540419a4f9080c7a14c57",
-      "5d440933f0f44ed5b574a8739662b0d0",
-      "407d734d1a904f2b9a9dedf41a1d2550",
-      "cff0a056b238425da4f010083096f604",
-      "ffa127ac581240258d4b4b34ba946b5e",
       "4ad71bb9902c4287b1a79b915d835a5e",
-      "8ec9e3b549b54f628848dd94156ae70f",
-      "2ceec50ce6e94e7cbb20172793a8f4d4",
-      "7e80ee1e66244ae4957d9ffb64ef39f9",
       "50fcc2c86982431992535539cb26f591",
-      "d387ca847d494f6a8f544fbe375daef6",
-      "8d4206532b604babb004a33ebaba7395",
-      "a1a320981daa467685b7bd1c1fc50adf",
-      "b7a129db29ea44d4be12a2657b18e469",
-      "b3528ddcf5f7495db7ee6d1c2e24103c",
-      "e3badc8f1e824f18b0ff1db81bda7aab",
-      "2b7fa93bf69046b8bfe6a07b2ec42563"
+      "e3badc8f1e824f18b0ff1db81bda7aab"
     ]
   }
 }
