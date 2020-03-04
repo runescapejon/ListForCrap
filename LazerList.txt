@@ -2,18 +2,7 @@
   "success": true,
   "player": {
     "uuid": [
-      "6a7377dca2ab41c58cffb22eff6d6b76",
-      "bc6cecd4020c4e51910cb383a815b13d",
-      "aad3c7607a1440acbbb2d9a78aaf25ac",
-      "b989a2994cd04bef809df180eecc9894",
-      "4ad71bb9902c4287b1a79b915d835a5e",
-      "50fcc2c86982431992535539cb26f591",
-      "e3badc8f1e824f18b0ff1db81bda7aab",
-      "7027e7d9418d4be3966b8b6954b1048d",
-      "cff0a056b238425da4f010083096f604",
-      "d33671f7baf14e95a027377ae6ed5efb",
-      "607f28f7c70540419a4f9080c7a14c57",
-      "f498b93088464dd487786fb7c87737ce"
+      "6a7377dca2ab41c58cffb22eff6d6b76"
     ]
   }
 }
