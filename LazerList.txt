@@ -2,7 +2,8 @@
   "success": true,
   "player": {
     "uuid": [
-      "6a7377dca2ab41c58cffb22eff6d6b76"
+      "6a7377dca2ab41c58cffb22eff6d6b76",
+      "f498b93088464dd487786fb7c87737ce"
     ]
   }
 }
