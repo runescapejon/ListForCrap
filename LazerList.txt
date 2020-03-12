@@ -3,7 +3,8 @@
   "player": {
     "uuid": [
       "6a7377dca2ab41c58cffb22eff6d6b76",
-      "f498b93088464dd487786fb7c87737ce"
+      "f498b93088464dd487786fb7c87737ce",
+      "9ee7a5b942ab481c95721ffcda9bff65"
     ]
   }
 }
